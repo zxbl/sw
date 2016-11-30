@@ -1,4 +1,19 @@
 ## 真相部落  有图文 有音频 有视频 有真相<br>
+
+<table width="100%" style="back-ground:lightblue">
+   <tr>
+    <td colspan="2"  align="center">
+    <a href="http://1.sw.rpz.su/mp4/zx/2016/11/oh10yearsInv.mp4" target="_blank">
+      <img src="http://1.sw.rpz.su/pic/2016/11/10yearsOHinv.jpg" width="100%"><br>
+    </a>
+    </td>
+</table>
+
+#        [纪录片《活摘 十年调查》完整版 在线观看](http://1.sw.rpz.su/mp4/zx/2016/11/oh10yearsInv.mp4)
+
+
+
+
 ### 当前有效网址：<br>
 ### http://1.sw.rpz.su/<br>
 ### http://1.sw.bzpo.ru/<br>
