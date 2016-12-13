@@ -19,7 +19,7 @@
 ### http://1.sw.bzpo.ru/<br>
 ### http://13.34.webhop.biz/<br>
 ### http://62.myftp.biz/<br>
-### http://11.54.istmein.de/<br>
+### http://11.45.webhop.biz/<br>
 
 <a href="http://sot.lflink.com/zx/" target="_blank"><img src="http://sot.lflink.com/pic/2016/11/p7829911a215010452.jpg">
 
