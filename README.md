@@ -3,7 +3,7 @@
 <table width="100%" style="back-ground:lightblue">
    <tr>
     <td colspan="2"  align="center">
-    <a href="http://1.sw.rpz.su/mp4/mp4/other/211133.mp4" target="_blank">
+    <a href="http://1.sw.rpz.su/mp4/other/211133.mp4" target="_blank">
       <img src="http://1.sw.rpz.su/pic/2016/11/10yearsOHinv.jpg" width="100%"><br>
     </a>
     </td>
