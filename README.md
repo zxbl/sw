@@ -15,13 +15,13 @@
 
 
 ### 当前有效网址：<br>
-### http://1.sw.rpz.su/<br>
-### http://1.sw.bzpo.ru/<br>
+### http://1.38.is-a-student.com/<br>
+### http://1.29.is-a-techie.com/<br>
 ### http://13.34.webhop.biz/<br>
 ### http://62.myftp.biz/<br>
 ### http://11.45.webhop.biz/<br>
 
-<a href="http://sot.lflink.com/zx/" target="_blank"><img src="http://sot.lflink.com/pic/2016/11/p7829911a215010452.jpg">
+<a href="http://1.38.is-a-student.com/zx/" target="_blank"><img src="http://1.38.is-a-student.com/pic/2016/11/p7829911a215010452.jpg">
 
                                    
 </a>
