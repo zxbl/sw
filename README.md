@@ -28,7 +28,7 @@
 ### http://1.38.is-a-student.com/
 ### http://1.29.is-a-techie.com/
 ### http://13.949.dearnara.com/
-### http://62.myftp.biz/
+### http://1.907.schoerlin.chz/
 ### http://11.936.clerihew.xyz/
 
 <a href="http://1.38.is-a-student.com/zx/" target="_blank"><img src="http://1.38.is-a-student.com/pic/2016/11/p7829911a215010452.jpg">
