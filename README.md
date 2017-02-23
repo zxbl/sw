@@ -31,7 +31,7 @@
 ### http://279.excellerater.com
 ### http://714.cmyartwork.com
 
-<a href="http://714.cmyartwork.com/zx/" target="_blank"><img src="http://714.cmyartwork.com/pic/2016/11/p7829911a215010452.jpg" width="800">
+<a href="http://714.cmyartwork.com/zx/" target="_blank"><img src="http://714.cmyartwork.com/pic/2016/11/p7829911a215010452.jpg" width="1000">
 
                                    
 </a>
