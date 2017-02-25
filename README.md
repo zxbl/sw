@@ -5,7 +5,7 @@
 	<H1><a href="912.fullcoveronline.com" target="_blank">真相部落</a></H1>
 </td>
 <td>
-	<H3>有圖文 有音頻 有視頻 有真相</H3>
+	<H4><a href="912.fullcoveronline.com" target="_blank">有圖文 有音頻 有視頻 有真相</a></H4>
 </td>
 </tr>
 
