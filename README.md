@@ -2,45 +2,6 @@
 <tr>
 
 <td>
-	<H1><a href="http://912.fullcoveronline.com" target="_blank">真相部落</a></H1>
-</td>
-<td>
-	<H4><a href="http//912.fullcoveronline.com" target="_blank">有圖文 有音頻 有視頻 有真相</a></H4>
-</td>
-</tr>
-
-</table>
-
-
-
-<table width="100%" style="back-ground:lightblue">
-   <tr>
-    <td colspan="2"  align="center">
-    <a href="http://827.nabiltravel.com/mp4/other/211133.mp4" target="_blank">
-      <img src="organ-QR-1.jpg" width="100%"><br>
-    </a>
-    </td>
-</table>
-
-#        [杀人取器官：中国秘密的国家器官移植业（中文字幕）](http://827.nabiltravel.com/mp4/other/211133.mp4)
-
-
-<table width="100%" style="back-ground:lightblue">
-   <tr>
-    <td colspan="2"  align="center">
-    <a href="http://827.nabiltravel.com/mp4/zx/2016/11/oh10yearsInv.mp4" target="_blank">
-      <img src="192604_medium1.png" width="100%"><br>
-    </a>
-    </td>
-</table>
-
-#        [纪录片《活摘 十年调查》](http://827.nabiltravel.com/mp4/zx/2016/11/oh10yearsInv.mp4)
-
-
-<table>
-<tr>
-
-<td>
 	<H1><a href="http://93.dyndns-wiki.com/zx/">真相部落</a></H1>
 </td>
 <td>
@@ -49,6 +10,34 @@
 </tr>
 
 </table>
+
+
+
+<table width="100%" style="back-ground:lightblue">
+   <tr>
+    <td colspan="2"  align="center">
+    <a href="http://93.dyndns-wiki.com/zx/" target="_blank">
+      <img src="organ-QR-1.jpg" width="100%"><br>
+    </a>
+    </td>
+</table>
+
+#        [杀人取器官：中国秘密的国家器官移植业（中文字幕）](http://93.dyndns-wiki.com/mp4/other/211133.mp4)
+
+
+<table width="100%" style="back-ground:lightblue">
+   <tr>
+    <td colspan="2"  align="center">
+    <a href="http://93.dyndns-wiki.com/mp4/zx/2016/11/oh10yearsInv.mp4" target="_blank">
+      <img src="192604_medium1.png" width="100%"><br>
+    </a>
+    </td>
+</table>
+
+#        [纪录片《活摘 十年调查》](http://93.dyndns-wiki.com/mp4/zx/2016/11/oh10yearsInv.mp4)
+
+
+
 <table>
 <tr>
 	<td><a href="http://797.mp3wifie.com/xtr/107/"><img  src ="http://797.mp3wifie.com/pic/2017/02/107.jpg" width="155px" height="130px"></a></td>
